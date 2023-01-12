@@ -27,13 +27,13 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>Esign2</string>
+<string>ESign2_4.7.3</string>
 </dict>
 </array>
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>p3.xyz.yyyue.esign2.ipa-apps54336995</string>
+<string>p3.xyz.yyyue.esign2</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>
