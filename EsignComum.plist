@@ -33,19 +33,18 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>p3.xyz.yyyue.esign2</string>
+<string>p3.xyz.yyyue.esignadgh</string>
 <key>bundle-version</key>
 <string>1</string>
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>Esign China Commun</string>
+<string>Esign Commun</string>
 </dict>
 </dict>
 </array>
 </dict>
 </plist>
-
 
 
 
