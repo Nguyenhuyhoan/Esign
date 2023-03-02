@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>https://ipa-apps.me/ipaapps.png</string>
+<string>https://github.com/Nguyenhuyhoan/icons/raw/main/1.png</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -45,7 +45,6 @@
 </array>
 </dict>
 </plist>
-
 
 
 
