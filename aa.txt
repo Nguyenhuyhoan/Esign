@@ -35,7 +35,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>Gggg</string>
+<string>a</string>
 <key>bundle-version</key>
 <string>Vvv</string>
 <key>kind</key>
