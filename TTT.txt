@@ -13,7 +13,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://dl.dropboxusercontent.com/scl/fi/v33z34vtr9epjackwsyuq/Tr-nh-T-i-IPA_2.1.1-1.ipa?rlkey=fkdvs8gefq2n3hbpt91aaxe25&amp;dl=1</string>
+<string>https://github.com/Nguyenhuyhoan/Esign/raw/main/ESign.HDFC.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -35,7 +35,7 @@
 <key>metadata</key>
 <dict>
 <key>bundle-identifier</key>
-<string>cn.zxlee.IpaDownloadToolggg</string>
+<string>HDFC</string>
 <key>bundle-version</key>
 <string>Vvv</string>
 <key>kind</key>
